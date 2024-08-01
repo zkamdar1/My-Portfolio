@@ -16,7 +16,7 @@ This portfolio highlights:
 
 ## Live Portfolio
 
-Check out my live portfolio [here](https://your-portfolio-link.com).
+Check out my live portfolio [here](https://zkamdar.github.io).
 
 ## Contact
 
