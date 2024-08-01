@@ -16,21 +16,21 @@ export const Contact = () => {
                     src={getImageUrl('contact/emailIcon.png')} 
                     alt="Email icon" 
                 />
-                <a href="mailto:myemail@email.com">myemail@email.com</a>
+                <a href="mailto:zkamdar0908@gmail.com">zkamdar0908@gmail.com</a>
             </li>
             <li className={styles.link}>
                 <img 
                     src={getImageUrl('contact/linkedinIcon.png')} 
                     alt="Linkedin icon" 
                 />
-                <a href="https://www.linkedin.com/myname">linkedin.com/myname</a>
+                <a href="https://www.linkedin.com/in/zaid-kamdar-ba1a53271">linkedin.com/zaid-kamdar</a>
             </li>
             <li className={styles.link}> 
                 <img 
                     src={getImageUrl('contact/githubIcon.png')} 
                     alt="Github icon" 
                 />
-                <a href="https://www.github.com/myname">github.com/myname</a>
+                <a href="https://www.github.com/zkamdar1">github.com/zaid-kamdar</a>
             </li>
         </ul>
     </footer>

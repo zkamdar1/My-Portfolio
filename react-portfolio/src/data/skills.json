@@ -16,15 +16,35 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "Python",
+      "imageSrc": "skills/python1.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "title": "SQLite",
+      "imageSrc": "skills/sqlite.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Flask",
+      "imageSrc": "skills/flask.png"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "Assembly",
+      "imageSrc": "skills/assembly.png"
+    },
+    {
+      "title": "Swift",
+      "imageSrc": "skills/swift.png"
     }
   ]

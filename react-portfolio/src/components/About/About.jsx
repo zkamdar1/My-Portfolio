@@ -19,8 +19,8 @@ export const About = () => {
                         alt='Cursor'
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Frontend Developer</h3>
-                        <p>Frontend Dev with experience in blah blah</p>
+                        <h3>Aspiring Full-Stack Developer</h3>
+                        <p>As a Computer Science student at the University of North Carolina at Chapel Hill, I thrive on learning new technologies and tackling challenging problems.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
@@ -29,8 +29,8 @@ export const About = () => {
                         alt='Server'
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Backend Developer</h3>
-                        <p>Backend Dev with experience in blah blah</p>
+                        <h3>Technical Skills</h3>
+                        <p>Proficient in JavaScript, Python, React, and Node.js. Experienced in various programming languages and frameworks, including web development and software engineering practices.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
@@ -39,8 +39,8 @@ export const About = () => {
                         alt='ui Icon'
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>UI/UX Designer</h3>
-                        <p>UI and UX Designer with experience in blah blah</p>
+                        <h3>Team Player</h3>
+                        <p>Strong collaborator with excellent communication skills, committed to working effectively in diverse teams to achieve shared goals.</p>
                     </div>
                 </li>
             </ul>
