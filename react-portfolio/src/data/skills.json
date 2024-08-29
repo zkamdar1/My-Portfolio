@@ -36,15 +36,11 @@
       "imageSrc": "skills/java.png"
     },
     {
-      "title": "C",
-      "imageSrc": "skills/c.png"
+      "title": "Next Js",
+      "imageSrc": "skills/Next.js.png"
     },
     {
-      "title": "Assembly",
-      "imageSrc": "skills/assembly.png"
-    },
-    {
-      "title": "Swift",
-      "imageSrc": "skills/swift.png"
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
     }
   ]

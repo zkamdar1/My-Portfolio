@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Algorithm Visualizer",
+      "imageSrc": "projects/algo-visual.png",
+      "description": "This is web application designed to help increase understanding of various pathfinding and sorting algortihms through the use of visuals.",
+      "skills": ["React", "CSS", "HTML"],
+      "demo": "https://zkamdar1.github.io/algorithm-visualizer/",
+      "source": "https://github.com/zkamdar1/algorithm-visualizer"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "LifeScore",
+      "imageSrc": "projects/lifescore.png",
+      "description": "This habit tracker app was created to help build and maintain habits/routines to improve daily life.",
+      "skills": ["React", "Next js", "Tailwind CSS", "MongoDB"],
+      "demo": "https://lifescore.vercel.app/",
+      "source": "https://github.com/zkamdar1/lifescore"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Open Source Project Contribution",
+      "imageSrc": "projects/csxl.png",
+      "description": "Contributed to an open-source project. Used Agile methodologies and practices in a team setting.",
+      "skills": ["Python", "Typescript", "Docker", "CSS", "HTML"],
+      "demo": "https://csxl.unc.edu/welcome",
+      "source": "https://github.com/zkamdar1/CSXL_Collaboration"
     }
   ]
