@@ -4,15 +4,15 @@
       "organisation": "Advantis Solutions",
       "startDate": "May, 2023",
       "endDate": "Aug, 2023",
-      "experiences": ["Optimized ETL pipelines, reducing processing time by 15%", "Directed end-to-end development for client projects"],
+      "experiences": ["Built and optimized web application features", "Collaborated on debugging, testing and deploying software"],
       "imageSrc": "history/advantis.png"
     },
     {
-      "role": "UI/UX Developer Intern",
+      "role": "UI/UX Design & QA Intern",
       "organisation": "Finally Free Production",
       "startDate": "May, 2022",
       "endDate": "Aug, 2022",
-      "experiences": ["Created UI/UX prototypes in Figma", "Oversaw project timelines and deliverables"],
+      "experiences": ["Designed user flows and prototypes in Figma", "Conducted usability testing and provided feedback to enhance project deliverables"],
       "imageSrc": "history/ffp.png"
     },
     {
@@ -21,8 +21,8 @@
       "startDate": "Aug, 2021",
       "endDate": "May, 2025",
       "experiences": [
-        "Collaborated on various software projects with peers",
-        "Studying Computer & Data Science"
+        "Worked collaboratively with peers on various data and software projects",
+        "Pursuing degree in Computer Science & Data Science"
       ],
       "imageSrc": "history/uncch.png"
     }

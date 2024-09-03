@@ -18,9 +18,25 @@
     {
       "title": "Open Source Project Contribution",
       "imageSrc": "projects/csxl.png",
-      "description": "Contributed to an open-source project. Used Agile methodologies and practices in a team setting.",
+      "description": "Contributed to the CSXL site. Used Agile methodologies and practices in a team setting.",
       "skills": ["Python", "Typescript", "Docker", "CSS", "HTML"],
       "demo": "https://csxl.unc.edu/welcome",
       "source": "https://github.com/zkamdar1/CSXL_Collaboration"
+    },
+    {
+      "title": "Akari Game",
+      "imageSrc": "projects/akari.png",
+      "description": "A logic puzzle game where players light up a grid by placing bulbs strategically.",
+      "skills": ["Java", "CSS"],
+      "demo": "https://www.puzzle-light-up.com/",
+      "source": "https://github.com/zkamdar1/Akari_Game"
+    },
+    {
+      "title": "Predicitive Analysis for NCAA",
+      "imageSrc": "projects/cbb.png",
+      "description": "A logic puzzle game where players light up a grid by placing bulbs strategically.",
+      "skills": ["R"],
+      "demo": "https://github.com/zkamdar1/Predictive_Data_Analysis/blob/main/reports/Predictive-Analysis-Final-Paper.pdf",
+      "source": "https://github.com/zkamdar1/Predictive_Data_Analysis"
     }
   ]
