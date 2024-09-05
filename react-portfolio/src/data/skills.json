@@ -1,50 +1,54 @@
 [
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "Python",
-      "imageSrc": "skills/python1.png"
-    },
-    {
-      "title": "SQLite",
-      "imageSrc": "skills/sqlite.png"
-    },
-    {
-      "title": "Flask",
-      "imageSrc": "skills/flask.png"
-    },
-    {
-      "title": "Typescript",
-      "imageSrc": "skills/typescript.png"
-    },
-    {
-      "title": "Java",
-      "imageSrc": "skills/java.png"
-    },
-    {
-      "title": "Next Js",
-      "imageSrc": "skills/Next.js.png"
-    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "R",
-      "imageSrc": "skills/R.png"
-    }
-  ]
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python1.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "R",
+    "imageSrc": "skills/R.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "skills/flask.png"
+  },
+  {
+    "title": "Next Js",
+    "imageSrc": "skills/Next.js.png"
+  },
+  {
+    "title": "SQLite",
+    "imageSrc": "skills/sqlite.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  }
+]
