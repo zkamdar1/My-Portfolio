@@ -1,10 +1,13 @@
 [
     {
-      "role": "Software Engineer Intern",
+      "role": "Co-Founder & CTO",
       "organisation": "Advantis Solutions",
-      "startDate": "May, 2023",
-      "endDate": "Aug, 2023",
-      "experiences": ["Built and optimized web application features", "Collaborated on debugging, testing and deploying software"],
+      "startDate": "Jan 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Developed AI chatbots using LLMs and RAG, reducing client onboarding time by 30%",
+        "Closed $15k in contracts within 6 months through direct client outreach and demos"
+      ],
       "imageSrc": "history/advantis.png"
     },
     {

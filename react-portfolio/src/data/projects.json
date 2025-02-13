@@ -1,42 +1,66 @@
-[
-    {
-      "title": "Algorithm Visualizer",
-      "imageSrc": "projects/algo-visual.png",
-      "description": "This is web application designed to help increase understanding of various pathfinding and sorting algortihms through the use of visuals.",
-      "skills": ["React", "CSS", "HTML"],
-      "demo": "https://zkamdar1.github.io/algorithm-visualizer/",
-      "source": "https://github.com/zkamdar1/algorithm-visualizer"
-    },
-    {
-      "title": "LifeScore",
-      "imageSrc": "projects/lifescore.png",
-      "description": "This habit tracker app was created to help build and maintain habits/routines to improve daily life.",
-      "skills": ["React", "Next js", "Tailwind CSS", "MongoDB"],
-      "demo": "https://lifescore.vercel.app/",
-      "source": "https://github.com/zkamdar1/lifescore"
-    },
-    {
-      "title": "Open Source Project Contribution",
-      "imageSrc": "projects/csxl.png",
-      "description": "Contributed to the CSXL site. Used Agile methodologies and practices in a team setting.",
-      "skills": ["Python", "Typescript", "Docker", "CSS", "HTML"],
-      "demo": "https://csxl.unc.edu/welcome",
-      "source": "https://github.com/zkamdar1/CSXL_Collaboration"
-    },
-    {
-      "title": "Akari Game",
-      "imageSrc": "projects/akari.png",
-      "description": "A logic puzzle game where players light up a grid by placing bulbs strategically.",
-      "skills": ["Java", "CSS"],
-      "demo": "https://www.puzzle-light-up.com/",
-      "source": "https://github.com/zkamdar1/Akari_Game"
-    },
-    {
-      "title": "Predicitive Analysis for NCAA",
-      "imageSrc": "projects/cbb.png",
-      "description": "A logic puzzle game where players light up a grid by placing bulbs strategically.",
-      "skills": ["R"],
-      "demo": "https://github.com/zkamdar1/Predictive_Data_Analysis/blob/main/reports/Predictive-Analysis-Final-Paper.pdf",
-      "source": "https://github.com/zkamdar1/Predictive_Data_Analysis"
-    }
-  ]
+[   
+  {
+  "title": "AI-Powered Business Consultant Bot",
+  "imageSrc": "projects/ai-bot.png",
+  "description": "Features document Q&A (RAG), CRM integration, and multi-language support. Reduced client support tickets by 60%.",
+  "skills": ["OpenAI", "Python", "React", "RAG"],
+  "demo": "https://www.advantissolutions.com/",
+  "source": "https://www.advantissolutions.com/"
+  },
+  {
+    "title": "LifeScore",
+    "imageSrc": "projects/lifescore.png",
+    "description": "This habit tracker app was created to help build and maintain habits/routines to improve daily life.",
+    "skills": ["React", "Next js", "Tailwind CSS", "MongoDB"],
+    "demo": "https://lifescore.vercel.app/",
+    "source": "https://github.com/zkamdar1/lifescore"
+  },
+  {
+    "title": "Open Source Project Contribution",
+    "imageSrc": "projects/csxl.png",
+    "description": "Contributed to the CSXL site. Used Agile methodologies and practices in a team setting.",
+    "skills": ["Python", "Typescript", "Docker", "CSS", "HTML"],
+    "demo": "https://csxl.unc.edu/welcome",
+    "source": "https://github.com/zkamdar1/CSXL_Collaboration"
+  },
+  {
+    "title": "Nebula – Video Generator",
+    "imageSrc": "projects/nebula.jpg",
+    "description": "Python-based video generator with background visuals, audio narration, and subtitles. ",
+    "skills": ["Python", "TTS/STT", "AWS S3", "AWS RDS"],
+    "demo": "https://www.tiktok.com/@_elevateessence?lang=en", 
+    "source": "https://github.com/zkamdar1/Nebula"
+  },
+  {
+    "title": "Image Tagging App",
+    "imageSrc": "projects/storyApp.png",
+    "description": "Android app that tags images using Google Vision API and generates unique stories through AI.",
+    "skills": ["Java", "Google Vision", "TextCortex AI"],
+    "demo": "https://github.com/zkamdar1/AI-powered-storyteller",
+    "source": "https://github.com/zkamdar1/AI-powered-storyteller"
+  },
+  {
+    "title": "Algorithm Visualizer",
+    "imageSrc": "projects/algo-visual.png",
+    "description": "This is web application designed to help increase understanding of various pathfinding and sorting algortihms through the use of visuals.",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "https://zkamdar1.github.io/algorithm-visualizer/",
+    "source": "https://github.com/zkamdar1/algorithm-visualizer"
+  },
+  {
+    "title": "Akari Game",
+    "imageSrc": "projects/akari.png",
+    "description": "A logic puzzle game where players light up a grid by placing bulbs strategically.",
+    "skills": ["Java", "CSS"],
+    "demo": "https://www.puzzle-light-up.com/",
+    "source": "https://github.com/zkamdar1/Akari_Game"
+  },
+  {
+    "title": "Predicitive Analysis for NCAA",
+    "imageSrc": "projects/cbb.png",
+    "description": "A logic puzzle game where players light up a grid by placing bulbs strategically.",
+    "skills": ["R"],
+    "demo": "https://github.com/zkamdar1/Predictive_Data_Analysis/blob/main/reports/Predictive-Analysis-Final-Paper.pdf",
+    "source": "https://github.com/zkamdar1/Predictive_Data_Analysis"
+  }
+]

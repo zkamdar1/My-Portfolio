@@ -44,11 +44,19 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+   "title": "Firebase",
+   "imageSrc": "skills/firebase.png"
   }
 ]

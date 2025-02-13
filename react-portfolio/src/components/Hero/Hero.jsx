@@ -7,9 +7,9 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hi, I'm Zaid</h1>
+            <h1 className={styles.title}>AI Developer & Full-Stack Engineer</h1>
             <p className={styles.description}>
-            I'm currently a Computer Science student at the University of North Carolina at Chapel Hill (Go Heels!!!). Passionate about technology and innovation, I'm always eager to learn and take on new challenges. Feel free to reach out if you'd like to connect!
+            Recent Computer Science graduate from UNC Chapel Hill building AI-powered solutions for small businesses. Co-founder of Advantis Solutions, where we develop custom chatbots and SaaS tools that automate workflows using LLMs like GPT-4. Passionate about bridging technical innovation with real-world impact.
             </p>
             <a href="mailto:zkamdar0908@gmail.com" className={styles.contactBtn}>Contact Me</a>
         </div>

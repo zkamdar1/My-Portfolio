@@ -19,8 +19,8 @@ export const About = () => {
                         alt='Cursor'
                     />
                     <div className={styles.aboutItemText}>
-                        <h3> Software Engineer</h3>
-                        <p>Enthusiastic Software Engineer with a background in Computer Science from the University of North Carolina at Chapel Hill. Passionate about building innovative solutions and continuously expanding my expertise in full-stack development and new technologies.</p>
+                        <h3> AI Solutions Architect</h3>
+                        <p>Built several AI chatbots using large language models (LLMs) and retrieval-augmented generation (RAG) to help small businesses handle common queries. Integrated tools like OpenAI, Zapier, n8n, and Pinecone for smoother data retrieval and automation. Enjoy exploring ways AI can improve user experiences and reduce manual workflows.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
@@ -29,8 +29,8 @@ export const About = () => {
                         alt='Server'
                     />
                     <div className={styles.aboutItemText}>
-                        <h3>Technical Skills</h3>
-                        <p>Skilled in using a wide range of programming languages and frameworks to build innovative solutions. Experienced in full-stack development, optimizing performance, and enhancing user experiences. Familiar with software engineering best practices, version control systems, and Agile development methodologies.</p>
+                        <h3>Full-Stack Developer</h3>
+                        <p>Experienced with React, Node.js, Python, and PostgreSQL for building web applications end-to-end. Comfortable setting up REST APIs, managing databases, and creating responsive frontends. Familiar with Agile development, version control (Git), and deploying projects to cloud services like Vercel and Heroku.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
@@ -40,7 +40,7 @@ export const About = () => {
                     />
                     <div className={styles.aboutItemText}>
                         <h3>Collaborative Team Player</h3>
-                        <p>Effective communicator and team player, experienced in collaborating with cross-functional teams to deliver high-quality software solutions. Proven track record of contributing to projects through active collaboration, adaptability, and a commitment to achieving shared objectives.</p>
+                        <p>Led two SaaS projects from concept to deployment for small business clients, including a real estate management platform and a dining recommendations tool. Worked closely with clients to gather requirements, communicate technical insights, and adapt to evolving needs. Coordinated with designers and fellow developers to implement user feedback, ensuring each product aligned with both client goals and an optimal end-user experience.</p>
                     </div>
                 </li>
             </ul>
