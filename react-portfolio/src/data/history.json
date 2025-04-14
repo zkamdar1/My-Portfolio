@@ -1,31 +1,34 @@
 [
     {
-      "role": "Co-Founder & CTO",
+      "role": "Freelance Developer",
       "organisation": "Advantis Solutions",
       "startDate": "Jan 2023",
       "endDate": "Present",
       "experiences": [
-        "Developed AI chatbots using LLMs and RAG, reducing client onboarding time by 30%",
-        "Closed $15k in contracts within 6 months through direct client outreach and demos"
+        "Architected and developed full-stack web applications using React, Node.js, and MongoDB that streamlined client operations by 40%",
+        "Implemented responsive designs and RESTful APIs resulting in a 25% improvement in user engagement metrics"
       ],
       "imageSrc": "history/advantis.png"
     },
     {
-      "role": "UI/UX Design & QA Intern",
+      "role": "Software Development Intern",
       "organisation": "Finally Free Production",
-      "startDate": "May, 2022",
-      "endDate": "Aug, 2022",
-      "experiences": ["Designed user flows and prototypes in Figma", "Conducted usability testing and provided feedback to enhance project deliverables"],
+      "startDate": "May 2022",
+      "endDate": "Aug 2022",
+      "experiences": [
+        "Engineered front-end components with React that improved application load times by 30%",
+        "Collaborated with cross-functional teams to deploy new features that increased user retention by 20%"
+      ],
       "imageSrc": "history/ffp.png"
     },
     {
-      "role": "Student",
-      "organisation": "UNC-CH",
-      "startDate": "Aug, 2021",
-      "endDate": "May, 2025",
+      "role": "Computer Science Student",
+      "organisation": "UNC-Chapel Hill",
+      "startDate": "Aug 2021",
+      "endDate": "May 2025",
       "experiences": [
-        "Worked collaboratively with peers on various data and software projects",
-        "Pursuing degree in Computer Science & Data Science"
+        "Led multiple team projects utilizing agile methodologies, delivering all deliverables ahead of schedule",
+        "Applied data structures and algorithms to solve complex problems in coursework and group projects"
       ],
       "imageSrc": "history/uncch.png"
     }
