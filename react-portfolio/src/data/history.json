@@ -5,8 +5,8 @@
       "startDate": "Jan 2023",
       "endDate": "Present",
       "experiences": [
-        "Architected and developed full-stack web applications using React, Node.js, and MongoDB that streamlined client operations by 40%",
-        "Implemented responsive designs and RESTful APIs resulting in a 25% improvement in user engagement metrics"
+        "Delivered 6 AI/web apps end-to-end (Next.js, FastAPI, OpenAI), including support bots, RAG tools, and Stripe-integrated platforms.",
+        "Closed 3 client contracts, led Agile sprints, and shipped production-ready MVPs with a 5-person offshore team."
       ],
       "imageSrc": "history/advantis.png"
     },
@@ -16,8 +16,8 @@
       "startDate": "May 2022",
       "endDate": "Aug 2022",
       "experiences": [
-        "Engineered front-end components with React that improved application load times by 30%",
-        "Collaborated with cross-functional teams to deploy new features that increased user retention by 20%"
+        "Ran 5 usability tests and translated insights into Jira stories, boosting feature completion rate by 24%.",
+        "Built a Flask microservice using AWS Comprehend to auto-route support emails to Slack, saving ~6 hours/week."
       ],
       "imageSrc": "history/ffp.png"
     },

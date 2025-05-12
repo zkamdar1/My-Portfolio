@@ -1,20 +1,36 @@
-[   
+[
+  {
+    "title": "DSA CheatSheet",
+    "imageSrc": "projects/dsa-cheat.png",
+    "description": "A learning tool for Data Structures and Algorithms.",
+    "skills": ["React", "Next.js", "Tailwind CSS"],
+    "demo": "https://dsacheatsheet.vercel.app/",
+    "source": "https://github.com/zkamdar1/DSA-cheet-sheet"
+  },   
   {
     "title": "RantBuddy",
     "imageSrc": "projects/rantbuddy.png",
     "description": "A platform to express thoughts anonymously and get judgement-free responses.",
-    "skills": ["React", "Next.js", "Tailwind CSS", "Supabase"],
+    "skills": ["React", "Next.js", "Tailwind CSS", "Supabase, Twillio, OpenAI, Stripe"],
     "demo": "https://rantbuddy.vercel.app",
     "source": "https://rantbuddy.vercel.app"
   },
   {
-    "title": "#CriticalThinker",
+    "title": "Kritical",
     "imageSrc": "projects/kritical.png",
     "description": "A tool designed to encourage critical thinking and thought analysis through gamified daily challenges.",
     "skills": ["React", "Next.js", "Tailwind CSS", "Node.js"],
     "demo": "https://kritical.vercel.app",
-    "source": "https://kritical.vercel.app"
+    "source": "https://github.com/zkamdar1/daily-critical-spark"
   },
+  {
+    "title": "Promptly",
+    "imageSrc": "projects/promptly.png",
+    "description": "A platform to generate optmized prompts for AI models.",
+    "skills": ["React", "Next.js", "Tailwind CSS"],
+    "demo": "https://oneshotdoc.vercel.app/",
+    "source": "https://github.com/zkamdar1/promptly"
+  },   
   {
     "title": "LifeScore",
     "imageSrc": "projects/lifescore.png",
