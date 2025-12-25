@@ -1,5 +1,13 @@
 [
   {
+    "title": "Advantis AI",
+    "imageSrc": "projects/advantis-ai.png",
+    "description": "Build Your Own AI Assistant in Minutes. Upload a ton of files—docs, notes, even audio—and create a custom AI that knows you like a friend. No coding, just you and your ideas.",
+    "skills": ["JavaScript", "CSS", "OpenAI", "Supabase", "React", "Express", "Node.js", "Stripe"],
+    "demo": "https://advantis-ai.pro/",
+    "source": "https://github.com/zkamdar1/advantispro"
+  },
+  {
     "title": "Fitrah iOS",
     "imageSrc": "projects/fitrah.png",
     "description": "A simple, intuitive mobile app designed to help users keep up with their prayers daily and internalize key Islamic concepts through tracking, flashcards, widgets, and more.",
