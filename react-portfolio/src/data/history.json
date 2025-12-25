@@ -11,15 +11,17 @@
       "imageSrc": "history/advantis.png"
     },
     {
-      "role": "Software Development Intern",
-      "organisation": "Finally Free Production",
-      "startDate": "May 2022",
-      "endDate": "Aug 2022",
+      "role": "Full Stack Engineer",
+      "organisation": "Premier Yarns",
+      "startDate": "July 14, 2025",
+      "endDate": "Present",
       "experiences": [
-        "Ran 5 usability tests and translated insights into Jira stories, boosting feature completion rate by 24%.",
-        "Built a Flask microservice using AWS Comprehend to auto-route support emails to Slack, saving ~6 hours/week."
+        "Develop and maintain Shopify store features and functionality, serving 500,000+ users monthly.",
+        "Build and deploy serverless applications using AWS Lambda, S3, and API Gateway for scalable backend solutions.",
+        "Collaborate with cross-functional teams to design, develop, and ship new features that enhance user experience.",
+        "Identify, debug, and fix critical bugs to ensure optimal performance and reliability of production systems."
       ],
-      "imageSrc": "history/ffp.png"
+      "imageSrc": "history/premier-yarns.png"
     },
     {
       "role": "Computer Science Student",

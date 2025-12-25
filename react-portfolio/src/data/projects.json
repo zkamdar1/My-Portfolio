@@ -1,5 +1,21 @@
 [
   {
+    "title": "Fitrah iOS",
+    "imageSrc": "projects/fitrah.png",
+    "description": "A simple, intuitive mobile app designed to help users keep up with their prayers daily and internalize key Islamic concepts through tracking, flashcards, widgets, and more.",
+    "skills": ["Swift", "Next.js", "Supabase"],
+    "demo": "https://fitrahapp.vercel.app/",
+    "source": "https://github.com/zkamdar1/fitrah-ios"
+  },
+  {
+    "title": "Junoxo",
+    "imageSrc": "projects/junoxo.png",
+    "description": "A comprehensive wedding planning application built with TypeScript, Next.js, React, and Supabase.",
+    "skills": ["TypeScript", "Next.js", "React", "Supabase"],
+    "demo": "https://www.junoxo.com/",
+    "source": "https://github.com/zkamdar1/wedding"
+  },
+  {
     "title": "DSA CheatSheet",
     "imageSrc": "projects/dsa-cheat.png",
     "description": "A learning tool for Data Structures and Algorithms.",
