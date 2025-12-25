@@ -1,16 +1,5 @@
 [
     {
-      "role": "Freelance Developer",
-      "organisation": "Advantis Solutions",
-      "startDate": "Jan 2023",
-      "endDate": "Present",
-      "experiences": [
-        "Delivered 6 AI/web apps end-to-end (Next.js, FastAPI, OpenAI), including support bots, RAG tools, and Stripe-integrated platforms.",
-        "Closed 3 client contracts, led Agile sprints, and shipped production-ready MVPs with a 5-person offshore team."
-      ],
-      "imageSrc": "history/advantis.png"
-    },
-    {
       "role": "Full Stack Engineer",
       "organisation": "Premier Yarns",
       "startDate": "July 14, 2025",
@@ -22,6 +11,17 @@
         "Identify, debug, and fix critical bugs to ensure optimal performance and reliability of production systems."
       ],
       "imageSrc": "history/premier-yarns.png"
+    },
+    {
+      "role": "Freelance Developer",
+      "organisation": "Advantis Solutions",
+      "startDate": "Jan 2023",
+      "endDate": "June 2025",
+      "experiences": [
+        "Delivered 6 AI/web apps end-to-end (Next.js, FastAPI, OpenAI), including support bots, RAG tools, and Stripe-integrated platforms.",
+        "Closed 3 client contracts, led Agile sprints, and shipped production-ready MVPs with a 5-person offshore team."
+      ],
+      "imageSrc": "history/advantis.png"
     },
     {
       "role": "Computer Science Student",
